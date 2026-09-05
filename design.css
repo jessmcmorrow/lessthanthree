@@ -1,3 +1,9 @@
-.text {
-    cursor: text;
+body {
+    cursor: url("https://www.pocketgpsworld.com/reviews/tomtom-v7/cursors/volvo_v50.bmp"), default;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    padding: 20px;
 }
